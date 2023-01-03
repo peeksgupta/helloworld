@@ -10,3 +10,11 @@
 
 This is my first piece of code on Github - edited on Gitpod.
 Let's Gooooooo
+mkdir - make directory
+cd - change directory
+cd ../ - go one step up into the container folder
+touch - create file
+cat - show file text
+cp- copy from one file to another
+mv
+rm - remove file
